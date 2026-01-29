@@ -8,7 +8,7 @@
 ## 🌐 Onde me encontrar; 
 <p align="left">
   <a href="https://github.com/Gustavo Ribas Silestrino">
-    <img src="https://img.shields.io/badge/GitHub-Gustavo Rbas Silestrino-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Gustavo Ribas Silestrino-181717?style=for-the-badge&logo=github" />
 
   </a>
 </p>
